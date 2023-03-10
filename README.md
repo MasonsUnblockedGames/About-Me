@@ -1,11 +1,11 @@
 <img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
-<h1 align="center">Hi 👋, I'm 3kh0</h1>
-<h3 align="center">A nice person who can code buggy projects.</h3>
+<h1 align="center">Hi 👋, I'm Mason</h1>
+<h3 align="center">I make sites and update games and other stuff.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
+  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="Mason" />
   <img alt="" src="https://img.shields.io/badge/OS-Arch%20Linux-red/?logo=archlinux&color=1793d1">
   <img alt="" src="https://img.shields.io/badge/Discord-3kh0__%231791-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
@@ -18,7 +18,7 @@
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
-- 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io) and whatever else!
+- 🔭 I’m currently working on [My unblocked games website](https://masonsunblockedgames.github.io/MasonsUnblockedGames) and whatever else!
 
 - 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
